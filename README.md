@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**youssef994/youssef994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Spring Boot & Angular**  
+🔹 Passionate about building scalable & secure applications  
+🔹 Skilled in **Java, Spring Boot, Angular, PostgreSQL, Docker**  
+🔹 Exploring **microservices & event-driven architecture**  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Backend:** Java, Spring Boot, Spring Security, JPA, PostgreSQL, Redis, RabbitMQ  
+- **Frontend:** Angular, TypeScript, RxJS, SCSS  
+- **DevOps:** Docker, GitHub Actions, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Projects  
+- 🚀 **VermegConnect** – A Q&A platform for knowledge sharing  
+- 📊 **Real-time analytics & notifications** with microservices  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/youssef-ben-slama/))  
+
+---
+
+⚡ *Always learning & building innovative solutions!* 🚀  
