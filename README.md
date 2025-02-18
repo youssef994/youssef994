@@ -1,15 +1,39 @@
 # 👋 Hi, I'm Youssef 
 
-🚀 **Full-Stack Developer | Spring Boot & Angular**  
-🔹 Passionate about building scalable & secure applications  
-🔹 Skilled in **Java, Spring Boot, Angular, PostgreSQL, Docker**  
-🔹 Exploring **microservices & event-driven architecture**  
+🚀 **Full-Stack Developer | Spring Boot & Angular Enthusiast**  
+🔹 Passionate about crafting **scalable, secure, and high-performance applications** that solve real-world problems.  
+🔹 Proficient in **Java, Spring Boot, Angular, PostgreSQL, Docker**, and more.  
+🔹 Constantly exploring **microservices, event-driven architecture, and cloud-native development**.  
+🔹 Believer in clean code, agile practices, and continuous learning.  
+
+## 🌟 What I Bring to the Table  
+- **Backend Expertise:** Building robust RESTful APIs, integrating databases, and implementing security with **Spring Boot, Spring Security, and JPA**.  
+- **Frontend Skills:** Creating dynamic, responsive, and user-friendly interfaces with **Angular, TypeScript, and RxJS**.  
+- **DevOps Mindset:** Streamlining development workflows with **Docker, CI/CD pipelines, and GitHub Actions**.  
+- **Problem Solver:** Thriving on challenges and delivering efficient, maintainable solutions.  
 
 ## 🛠 Tech Stack  
-- **Backend:** Java, Spring Boot, Spring Security, JPA, PostgreSQL, Redis, RabbitMQ  
-- **Frontend:** Angular, TypeScript, RxJS, SCSS  
-- **DevOps:** Docker, GitHub Actions, CI/CD  
-<p>Welcome to my page! </br> I'm youssef ben slama, Fullstack developer from tunisia width="13"/> 
+### **Backend**  
+- **Languages:** Java  
+- **Frameworks:** Spring Boot, Spring Security, Spring Data JPA  
+- **Databases:** PostgreSQL, Redis  
+- **Messaging:** RabbitMQ  
+
+### **Frontend**  
+- **Frameworks:** Angular  
+- **Languages:** TypeScript, JavaScript  
+- **Styling:** SCSS, CSS3  
+- **State Management:** RxJS  
+
+### **DevOps & Tools**  
+- **Containerization:** Docker  
+- **CI/CD:** GitHub Actions , Jenkins 
+- **Version Control:** Git  
+- **Other Tools:** Postman, Linux, Bash , junit , prometheus , graphana , nexus , sonar  
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -43,21 +67,12 @@
 
 
 
+## 🐍 Contribution Graph
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/youssef994/youssef994/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/youssef994/youssef994/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/youssef994/youssef994/blob/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
