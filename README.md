@@ -49,9 +49,10 @@
   <a href="https://www.linkedin.com/in/youssef-ben-slama/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:youssefbenslama99422@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="gmail logo"  />
-  </a>
+ <a href="mailto:youssefbenslama99422@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="gmail logo"  />
+</a>
+<a href="mailto:youssefbenslama99422@gmail.com">youssefbenslama99422@gmail.com</a>
 </div>
 
 
